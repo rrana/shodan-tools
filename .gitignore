@@ -1,0 +1,16 @@
+.DS_Store
+*.pyc
+.project
+.settings
+.DS_STORE
+*~
+.idea/
+
+# sublime
+*.sublime-project
+*.sublime-workspace
+
+# Python packaging files
+**/.eggs
+**/*.egg-info
+.metadata/
